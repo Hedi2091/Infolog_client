@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("infolog_asp_fab")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eb24edad72c461c817d26523b2e84a2ef1f84d76")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+87aefa647991ab01a198fbce45d748b4077685f1")]
 [assembly: System.Reflection.AssemblyProductAttribute("infolog_asp_fab")]
 [assembly: System.Reflection.AssemblyTitleAttribute("infolog_asp_fab")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
